@@ -1,0 +1,4 @@
+##RMF avg: 0.948080318119027
+##paras: {'fname': 'output/3-3.txt', 'java_args': '-mmOF-HMM -mc20 -sa3 -ms10 -tw110|-mmOF-CRF -mc180 -sa3 -ms200 -tw3500 -ce15', 'windowsize': 3, 'sigmaM': 50, 'ignore_sparse': 1, 'cutguest': 0, 'detail': True, 'result_type': 'W', 'num': 1000}
+##RMF avg: 0.9417199192120317
+##paras: {'fname': 'output/3-3.txt', 'java_args': '-mmOF-HMM -mc20 -sa3 -ms10 -tw110|-mmOF-HMM -mc180 -sa3 -ms200 -tw3500', 'windowsize': 3, 'sigmaM': 50, 'ignore_sparse': 1, 'cutguest': 0, 'detail': True, 'result_type': 'W', 'num': 1000}

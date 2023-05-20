@@ -1,0 +1,16 @@
+haversine
+fire
+pyecharts
+pyprind
+flask
+pandas
+scipy
+flask_cors
+pymongo
+requests
+networkx
+redis
+geopy
+traj_dist
+
+#rtree https://pypi.org/project/Rtree/   use conda better
