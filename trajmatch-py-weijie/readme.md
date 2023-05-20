@@ -1,0 +1,1 @@
+PYTHONPATH=. python webserver/server.py  runserver --web_server_port=5000 --tablename='xxxxx'
